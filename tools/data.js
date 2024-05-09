@@ -244,7 +244,7 @@ for (const file of readdirSync(
   'utf8',
 )) {
   if (file.endsWith('.svg',) || file.endsWith('.css',)) {
-    const raw = readFileSync(`${ cwd }/dist/${ file }`,);
+    const raw = readFileSync(`${ cwd }/node_modules/@idrinth-api-bench/assets/${ file }`,);
     writeFileSync(
       `${ cwd }/dist/${ file }`,
       raw,
