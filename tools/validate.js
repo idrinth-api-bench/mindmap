@@ -87,7 +87,7 @@ const check = (prefix, index, node,) => {
 };
 
 try {
-  const data = parse(readFileSync(process.cwd() + '/data.yml', 'utf8',),);
+  const data = parse(readFileSync(process.cwd() + '/src/data.yml', 'utf8',),);
   if (Object.keys(data,).length !== TOP_LEVEL_PROPERTY_COUNT) {
     console.error(
       'You must have three elements at top level: text, $schema and children',
