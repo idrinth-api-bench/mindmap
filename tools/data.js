@@ -28,7 +28,7 @@ import {
 const FIRST = 0;
 const SECOND = 1;
 const cwd = process.cwd();
-const data = parse(readFileSync(`${ cwd }/data.yml`, 'utf8',),);
+const data = parse(readFileSync(`${ cwd }/src/data.yml`, 'utf8',),);
 const attributes = 'rel=noreferrer target=_blank';
 // eslint-disable-next-line complexity
 const convert = (node,) => {

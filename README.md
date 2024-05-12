@@ -1,9 +1,10 @@
-# @idrinth/api-bench/mindmap
+# @idrinth-api-bench/mindmap
 
 This mindmap is hosted [here](https://mindmap.idrinth-api-ben.ch).
 
-To add to or edit the mindmap, have a look at the data.yml file. It is made up
-of nodes - the single elements - that all start from the root node.
+To add to or edit the mindmap, have a look at the /src/data.yml file.
+It is made up of nodes - the single elements - that all start from the
+root node.
 
 Node can contain five elements: text, description, URL, image and children.
 Text is required to actually be able to display the node, while all other
