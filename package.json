@@ -43,7 +43,7 @@
     "knip": "^5.24.2",
     "mocha": "^10.4.0",
     "spellchecker-cli": "^6.2.0",
-    "stylelint": "^16.6.1",
+    "stylelint": "^16.8.2",
     "stylelint-config-standard": "^36.0.1",
     "typescript": "^5.5.3",
     "c8": "^10.1.2",
