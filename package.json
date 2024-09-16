@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@idrinth/duplicate-style-check": "^1.1.0",
-    "@types/node": "^20.14.10",
+    "@types/node": "^22.5.5",
     "chai": "^5.1.1",
     "eslint": "^8.57.0",
     "knip": "^5.24.2",
