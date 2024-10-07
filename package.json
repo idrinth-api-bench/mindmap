@@ -40,7 +40,7 @@
     "@types/node": "^20.14.10",
     "chai": "^5.1.1",
     "eslint": "^8.57.0",
-    "knip": "^5.30.6",
+    "knip": "^5.32.0",
     "mocha": "^10.7.3",
     "spellchecker-cli": "^6.2.0",
     "stylelint": "^16.6.1",
