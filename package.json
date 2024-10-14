@@ -33,7 +33,7 @@
     "http-server": "^14.1.1",
     "markmap-render": "^0.17.2",
     "terser": "^5.31.1",
-    "yaml": "^2.4.5"
+    "yaml": "^2.6.0"
   },
   "devDependencies": {
     "@idrinth/duplicate-style-check": "^1.1.0",
