@@ -48,7 +48,7 @@
     "typescript": "^5.5.3",
     "c8": "^10.1.2",
     "ts-node": "^10.9.2",
-    "@types/mocha": "^10.0.8",
+    "@types/mocha": "^10.0.9",
     "@types/chai": "^5.0.0",
     "@napi-rs/image": "^1.9.2"
   },
