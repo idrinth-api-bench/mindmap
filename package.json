@@ -28,7 +28,7 @@
   "type": "module",
   "dependencies": {
     "@idrinth-api-bench/assets": "https://github.com/idrinth-api-bench/assets",
-    "css-simple-minifier": "^2.0.0",
+    "css-simple-minifier": "^2.0.1",
     "html-minifier": "^4.0.0",
     "http-server": "^14.1.1",
     "markmap-render": "^0.18.0",
